@@ -7,7 +7,7 @@ Criado utilizando javascript durante o curso Full stack B7Web.
 Copia de uma urna eletronica onde faz todas as funções basicas da mesma, com alguns candidatos cadastrados.
 o defeito desse projeto é que nao existe uma "cola" para ver o codigo dos candidatos ou uma area para cadastrar candidatos.
 
-Não consegui fazer responsivo para todos os dispositivos. 
+Não é responsivo para todos os dispositivos. 
 
 Pra teste no projeto digitar em :
 Veriador : 38111;
